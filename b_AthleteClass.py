@@ -1,5 +1,6 @@
 
 class Athlete:
+    
     def __init__(self,ht,wt,bodyfat):
         self.__ht = ht
         self.__wt = wt
